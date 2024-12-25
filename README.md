@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Raihan Putra Darmawan and I'm a Software Engineering Enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Raihan Putra Darmawan and I'm a Software Engineer Enthusiast</h2>
 
 ###
 
